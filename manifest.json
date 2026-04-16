@@ -10,7 +10,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://api.emergence.science/tools/render/openapi.json"
+    "url": "https://emergence.science/openapi.json"
   },
   "discovery": {
     "content_index": "https://emergence.science/content/index.json"
